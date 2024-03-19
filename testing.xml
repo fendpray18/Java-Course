@@ -18,6 +18,11 @@
             <class name="com.automationexercise.tests.TestCase13"/>
             <class name="com.automationexercise.tests.TestCase14"/>
             <class name="com.automationexercise.tests.TestCase15"/>
+            <class name="com.automationexercise.tests.TestCase16"/>
+            <class name="com.automationexercise.tests.TestCase17"/>
+            <class name="com.automationexercise.tests.TestCase18"/>
+            <class name="com.automationexercise.tests.TestCase19"/>
+            <class name="com.automationexercise.tests.TestCase20"/>
         </classes>
     </test>
 </suite>
